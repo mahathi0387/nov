@@ -1,2 +1,0 @@
-# nov
-devops
